@@ -2,4 +2,4 @@
 
 Proyecto del Grupo 411
 - Xavier Gomez Yat
-- Ivan Gomez Navas
+- Ivan Gómez Navas
